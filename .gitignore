@@ -59,4 +59,4 @@ package-lock.json
 *.sln
 *.sw?
 
-mvnw.cwd
+mvnw.cmd
