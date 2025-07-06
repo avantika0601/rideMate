@@ -30,7 +30,7 @@ Features include:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rideMate.git
+git clone https://github.com/avantika0601/rideMate.git
 cd rideMate
 ```
 
