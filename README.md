@@ -184,10 +184,3 @@ Errors are centrally handled using `@ControllerAdvice`.
 - 💳 Online payment integration
 
 ---
-
-## Author
-
-**Avantika Hombannavar**  
-GitHub: [@avantika0601](https://github.com/avantika0601)
-
-> Clean UI + scalable backend + OOP patterns = a perfect portfolio project. Fork it, run it, extend it 🚀
