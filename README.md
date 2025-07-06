@@ -120,8 +120,8 @@ rideMate/
 Fare logic is encapsulated in interchangeable classes:
 
 - `NormalFareStrategy`: ₹10/km  
-- `SurgeFareStrategy`: ₹20/km  
-- `PoolFareStrategy`: ₹5/km
+- `SurgeFareStrategy`: ₹15/km  
+- `PoolFareStrategy`: ₹7/km
 
 The appropriate strategy is selected at runtime using a factory.
 
